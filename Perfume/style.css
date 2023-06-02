@@ -1,0 +1,66 @@
+body{
+    font-family: 'Anuphan', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    background: hsl(30,38%, 92%);
+}
+
+
+
+.showcase-content {
+    background: white;
+    font-weight: lighter;
+    width: 20vw;
+    padding:1rem;
+    box-shadow: 3px 3px 3px 3px hsl(158, 36%, 37%);
+    
+}
+
+.showcase-content h3 {
+    font-weight: lighter;
+}
+.content-img {
+    background: url(./img/image-product-desktop.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    width: 20vw;
+    box-shadow: 3px 3px 3px 3px hsl(158, 36%, 37%);
+}
+
+.lead{
+    font-family: 'Anuphan', sans-serif;
+    font-family: 'Fraunces', serif;
+    padding: 1rem;
+}
+
+.showcase {
+    padding-top: 5rem;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.price {
+    font-family: 'Anuphan', sans-serif;
+        font-family: 'Fraunces', serif;
+    color: hsl(158, 36%, 37%);
+    font-size: 2.5rem;
+    }
+
+.price-2 {
+    font-family: 'Anuphan', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+}
+
+.btn {
+    font-family: 'Anuphan', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    background: hsl(158, 36%, 37%);
+    color: white;
+    padding: 0.5rem 5rem;
+    margin-top: 1rem;
+    border-radius: 5px;
+}
+
